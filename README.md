@@ -21,7 +21,7 @@ dependency and the first paint has no third-party round trip.
 |---|---|
 | **01 · Cover** | Graph paper, `DEVLOPER`, `PORTFOLIO` assembling letter by letter with the illustrated face placed into the gap where the second **O** should be, `2026`. Then, only once you scroll: a drawn arrow, a red mark, `. |
 | **02 · Hello** | The video plate, introduction, education, skills, experience — the reference's three-column composition. |
-| **03 · The moving poster** | Black torn paper, `PORTFOLIO GIREESH` drifting slowly left to right off both edges, the die-cut portrait standing still in front of it. |
+| **03 · The moving poster** | Black torn paper, `PORTFOLIO NIPUN` drifting slowly left to right off both edges, the die-cut portrait standing still in front of it. |
 | **04 · THE STU** | Three Polaroids laid on the paper at different angles, handwritten notes underneath, click to enlarge. |
 | **05 · The last page** | `LET'S CONNECT` at cover scale — the heading *is* the button — the identity drifting behind it, a signature, and the paper tearing away. |
 
